@@ -8,5 +8,9 @@ namespace WindowsFormsApp1
 {
     internal class Student
     {
+        public class void fix()
+        {
+
+        }
     }
 }
