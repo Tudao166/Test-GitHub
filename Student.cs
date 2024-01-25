@@ -12,5 +12,9 @@ namespace WindowsFormsApp1
         {
 
         }
+        public class void fix()
+        {
+
+        }
     }
 }
