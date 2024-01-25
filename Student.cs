@@ -8,13 +8,9 @@ namespace WindowsFormsApp1
 {
     internal class Student
     {
-        public class void fix()
+        public void fix()
         {
-
-        }
-        public class void fix()
-        {
-
+            Console.WriteLine("Hello cac em");
         }
     }
 }
